@@ -1,4 +1,4 @@
-import Shelf from '../../components/Shelf';
+import Shelf from '@components/Shelf';
 
 export default function Home() {
   return (
