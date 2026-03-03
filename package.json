@@ -1,0 +1,23 @@
+{
+  "name": "family-cookbook-shelf",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "13.5.6",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "tailwindcss": "3.4.1",
+    "postcss": "8.4.31",
+    "autoprefixer": "10.4.17",
+    "@supabase/supabase-js": "2.44.2",
+    "three": "0.166.1",
+    "@react-three/fiber": "8.15.3",
+    "@react-three/drei": "9.98.0",
+    "framer-motion": "11.3.18"
+  }
+}
